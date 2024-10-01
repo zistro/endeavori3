@@ -2,8 +2,8 @@ This is my catpppuccin rice after installing i3wm with endeavoros.
 
 You should check the config beforehand otherwise you'll run into problems.
 
-If you want the catppuccin themes check this link:
-[link](https://github.com/brycewalkerdev/catppuccin-gtk)
+If you want the catppuccin themes:
+`yay -S catppuccin-gtk-theme-mocha catppuccin-gtk-theme-macchiato catppuccin-gtk-theme-frappe catppuccin-gtk-theme-latte`
 
 **Dependency**
 
