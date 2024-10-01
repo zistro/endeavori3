@@ -23,3 +23,5 @@ If you want the catppuccin themes:
 I customized my terminal check this out if you want to customize yours.It`s from a youtuber named Novaspirit.
 [link](https://github.com/novaspirit/pimpyourterm)
 
+Put the wallpaper in the .config folder
+
