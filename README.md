@@ -1,10 +1,7 @@
-This is my catpppuccin rice after installing i3wm with endeavoros.
+This is my nord after installing i3wm with endeavoros.
 
 You should check the config beforehand otherwise you'll run into problems.
 
-If you want the catppuccin themes:
-
-`yay -S catppuccin-gtk-theme-mocha catppuccin-gtk-theme-macchiato catppuccin-gtk-theme-frappe catppuccin-gtk-theme-latte`
 
 **Dependency**
 
@@ -12,7 +9,7 @@ If you want the catppuccin themes:
  `yay -S ttf-meslo-nerd`
 
 2.picom
- `yay -S picom`
+ `yay -S picom-git`
 
 3.Alacritty
  `sudo pacman -S alacritty`
@@ -22,6 +19,8 @@ If you want the catppuccin themes:
 
 I customized my terminal check this out if you want to customize yours.It`s from a youtuber named Novaspirit.
 [link](https://github.com/novaspirit/pimpyourterm)
+
+If you want starship then [link](https://starship.rs/)
 
 **Important**
 
