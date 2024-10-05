@@ -1,4 +1,4 @@
-![Alt text](https://github.com/zistro/endeavori3/tree/main)
+https://github.com/zistro/endeavori3/tree/main
 
 
 
@@ -22,8 +22,7 @@ You should check the config beforehand otherwise you'll run into problems.
 4.Polybar
  `yay -S polybar`
 
-I customized my terminal check this out if you want to customize yours.It`s from a youtuber named Novaspirit.
-[link](https://github.com/novaspirit/pimpyourterm)
+I customized my terminal check this out if you want to customize yours.It`s from a youtuber named Novaspirit.[link](https://github.com/novaspirit/pimpyourterm)
 
 If you want starship then [link](https://starship.rs/)
 
