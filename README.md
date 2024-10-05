@@ -1,3 +1,8 @@
+![Alt text](URL_to_your_image)
+
+
+
+
 This is my nord after installing i3wm with endeavoros.
 
 You should check the config beforehand otherwise you'll run into problems.
