@@ -28,7 +28,7 @@ I customized my terminal check this out if you want to customize yours.It`s from
 
 If you want starship then [link](https://starship.rs/)
 
-If you want browser tab like then [link](https://github.com/XengShi/materialYouNewTab?tab=readme-ov-file)
+If you want browser tab like me then [link](https://github.com/XengShi/materialYouNewTab?tab=readme-ov-file)
 
 **Important**
 
