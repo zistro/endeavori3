@@ -1,5 +1,8 @@
-https://github.com/zistro/endeavori3/tree/main
-
+![2024-10-04-23:01:37-screenshot](https://github.com/user-attachments/assets/5b9c26ed-73eb-4a63-aead-cf5a98161a35)
+![2024-10-04-23:02:09-screenshot](https://github.com/user-attachments/assets/faf34208-55a2-493f-b98b-61eebfa1f1fd)
+![2024-10-04-23:02:46-screenshot](https://github.com/user-attachments/assets/d3dc30c9-b80e-488b-8965-54bb7dcbd285)
+![2024-10-04-23:03:03-screenshot](https://github.com/user-attachments/assets/58aab465-49b5-41d3-a902-b54671151c03)
+![5](https://github.com/user-attachments/assets/46cd00eb-fce5-4ba2-8819-da52142059e5)
 
 
 
