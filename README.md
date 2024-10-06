@@ -24,6 +24,9 @@ You should check the config beforehand otherwise you'll run into problems.
 4.Polybar
  `yay -S polybar`
 
+5.Autotiling
+`sudo pacman -S autotiling`
+
 I customized my terminal check this out if you want to customize yours.It`s from a youtuber named Novaspirit.[link](https://github.com/novaspirit/pimpyourterm)
 
 If you want starship then [link](https://starship.rs/)
